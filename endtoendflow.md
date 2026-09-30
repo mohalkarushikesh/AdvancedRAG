@@ -1,4 +1,3 @@
-```markdown name=ADVANCED_RAG_WORKFLOW.md
 # AdvancedRAG: End-to-End Workflow Analysis
 
 This repository is an enterprise-grade Kubernetes operations RAG system built with Python, FastAPI, LangGraph, Qdrant, PostgreSQL/SQLite, Redis, and LLMs (Anthropic/Gemini, or offline mode). The project’s purpose is to answer Kubernetes/SRE troubleshooting questions using a hybrid retrieval pipeline, optionally generate SQL against an ops database, enforce guardrails, and surface everything through a web UI and REST API.
