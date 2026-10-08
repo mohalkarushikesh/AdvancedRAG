@@ -551,16 +551,16 @@ cd "c:/Users/2327238/Documents/dev/ai/Internal Switch/Projects/AdvacedRAG" && ./
 
 
 ## K8S SRE Uster Interface 
-![K8s SRE UI 1](/k8s_sre_ui_1.png)
-![K8s SRE UI 2](/k8s_sre_ui_2.png)
+![K8s SRE UI 1](./assets/k8s_sre_ui_1.png)
+![K8s SRE UI 2](./assets/k8s_sre_ui_2.png)
 
 ---
 
-![K8s SRE QUES_2 UI 3](/k8s_sre_2nd_ques_1.png)
-![K8s SRE QUES_2 UI 4](/k8rs_sre_2nd_ques_2.png)
-![K8s SRE QUES_2 UI 4](/k8s_sre_2nd_ques_3.png)
+![K8s SRE QUES_2 UI 3](./assets/k8s_sre_2nd_ques_1.png)
+![K8s SRE QUES_2 UI 4](./assets/k8rs_sre_2nd_ques_2.png)
+![K8s SRE QUES_2 UI 4](./assets/k8s_sre_2nd_ques_3.png)
 
 ---
-![k8s SRE QUES_3](/k8s_sre_ques_5_1.png)
-![k8s SRE QUES_3](/k8s_sre_ques_5_2.png)
-![k8s SRE QUES_3](/k8s_sre_ques_5_3.png)
+![k8s SRE QUES_3](./assets/k8s_sre_ques_5_1.png)
+![k8s SRE QUES_3](./assets/k8s_sre_ques_5_2.png)
+![k8s SRE QUES_3](./assets/k8s_sre_ques_5_3.png)
