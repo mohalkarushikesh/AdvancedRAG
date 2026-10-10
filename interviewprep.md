@@ -44,7 +44,7 @@ answer (a cache hit skips retrieval), and a weak lexical rerank score is allowed
                               └───────────────┬────────────────────────────┘
                                               │ pipeline.ask() / resume()
                                               ▼
-                              ┌──────────────────────────────────────────┐
+                              ┌────────────────────────────────────────────┐
                               │  LangGraph state machine (graph/)          │
                               │  nodes = pure fns of RagState → dict patch │
                               └───────────────┬────────────────────────────┘
